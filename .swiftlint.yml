@@ -1,0 +1,9 @@
+disabled_rules:
+- force_cast
+- unused_closure_parameter
+- function_body_length
+- file_length
+- cyclomatic_complexity
+- class_delegate_protocol
+included:
+excluded:
